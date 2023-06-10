@@ -5,6 +5,7 @@ public class LoginFb {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Loginfb");
+		System.out.println("welcome");
 
 	}
 
